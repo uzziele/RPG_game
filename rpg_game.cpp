@@ -30,7 +30,7 @@ int main()
     David.magicAttack(Goliath);
 
     David.verifyState();
-    Goliath.verifyState();
+    Goliath.verifyState();  //We can continue adding actions
 
     return 0;
 
